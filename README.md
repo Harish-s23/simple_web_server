@@ -39,7 +39,8 @@ with socketserver.TCPServer(("", PORT), MyHandler) as httpd:
     httpd.serve_forever()
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-02-26 155833.png>)
+![web output EXP -1](https://github.com/user-attachments/assets/d5893af3-a4ae-4b56-9f98-3b9d135b132b)
+
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
